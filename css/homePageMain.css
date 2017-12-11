@@ -1,0 +1,724 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #393d42;
+	font-family: "微软雅黑";
+}
+a{
+	text-decoration: none;
+}
+ul,li{
+	list-style: none;
+}
+img{
+	border: none;
+}
+.main{
+	width: 100%;
+	padding-top: 80px;
+	background: #393d42;
+}
+.main .mainTop{
+	width: 1170px;
+	height: 347px;
+	margin: 0 auto 20px;
+}
+.mainTop .gameType{
+	width: 198px;
+	height: 347px;
+	float: left;
+	background: #00caca;
+}
+.gameType #menu{
+	width: 100%;
+	height: 347px;
+	background: #4a4d4d;
+	
+}
+.gameType #menu>li{
+	width: 100%;
+	/*height: 48px;*/
+	line-height: 48px;
+	color: #e4e4e4;
+	text-indent: 20px;
+	font-weight: 100;
+	font-size: 16px;
+	border-top: 2px solid #222;
+	cursor: pointer;
+	overflow: hidden;
+}
+/*.gameType #menu .menuLi{
+	height: 195px;
+}*/
+.gameType #menu>li:hover{
+	color: #ff6900;
+}
+.gameType .submenu{
+	width: 100%;
+	height: 147px;
+	background: #222;
+	display: none;
+}
+.gameType .dismenu{
+	display: block;
+}
+.gameType .submenu>li{
+	float: left;
+	color: #e4e4e4;
+	font-size: 14px;
+	text-indent: 0;
+	line-height: 30px;
+	padding: 6px;
+	cursor: pointer;
+}
+.gameType .submenu>li:hover{
+	color: #ff6900;
+}
+
+#banner{
+	width: 665px;
+	height: 347px;
+	float: left;
+	margin: 0 20px;
+} 
+#imgWarp{
+	width: 100%;
+	height: 326px;
+	position: relative;
+	margin-bottom: 5px;
+	border-radius: 0 0 4px 4px;
+	behavior: url(css/PIE.htc);
+	overflow: hidden;
+}
+#imgBox{
+	position: absolute;
+	height: 326px;
+}
+#imgBox li{
+	float: left;
+	width: 665px;
+	height: 326px;
+}
+#tabBtn{
+	width: 100%;
+	height: 16px;
+}
+#leftBtn,#rightBtn{
+	width: 46px;
+	height: 16px;
+	border-radius: 3px;
+	position: relative;
+	behavior: url(css/PIE.htc);
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+#leftBtn{
+	float: left;
+	background: #9c9ea1 url(../img/leftbtn.png) no-repeat 50%;
+}
+#leftBtn:hover{
+	background: #4a4d4d url(../img/leftbtn.png) no-repeat 50%;
+}
+#rightBtn{
+	float: right;
+	background: #9c9ea1 url(../img/rightbtn.png) no-repeat 50%;
+}
+#rightBtn:hover{
+	background: #4a4d4d url(../img/rightbtn.png) no-repeat 50%;
+}
+#sliderBox{
+	width: 564px;
+	height: 16px;
+	position: relative;
+	float: left;
+	margin: 0 3px;
+	background: #9c9ea1;
+	border-radius: 3px;
+	behavior: url(css/PIE.htc);
+	cursor: pointer;
+}
+#slider{
+	width: 47px;
+	height: 16px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #4a4d4d;
+	border-radius: 3px;
+	behavior: url(css/PIE.htc);
+}
+#slider:hover{
+	background: #fff;
+}
+.mainTop .topRight{
+	width: 265px;
+	height: 347px;
+	float: left;
+	overflow: hidden;
+}
+#tabImgWarp{
+	height: 326px;
+	margin-bottom: 5px;
+	cursor: pointer;
+}
+#tabImgWarp li{
+	width: 265px;
+	height:326px;
+	float: left;
+}
+#tabPageWarp{
+	width: 265px;
+	height: 16px;
+}
+#leftTabBtn,#rightTabBtn{
+	width: 46px;
+	height: 16px;
+	border: none;
+	outline: none;
+	border-radius: 3px;
+	position: relative;
+	behavior: url(PIE.htc);
+	cursor: pointer;
+}
+#leftTabBtn{
+	float: left;
+	background: #9c9ea1 url(../img/leftbtn.png) no-repeat 50%;
+}
+#leftTabBtn:hover{
+	background: #4a4d4d url(../img/leftbtn.png) no-repeat 50%;
+}
+#rightTabBtn{
+	float: right;
+	background: #9c9ea1 url(../img/rightbtn.png) no-repeat 50%;
+}
+#rightTabBtn:hover{
+	background: #4a4d4d url(../img/rightbtn.png) no-repeat 50%;
+}
+#tabPageWarp p{
+	float: left;
+	width: 167px;
+	height:16px;
+	margin: 0 3px;
+	line-height: 16px;
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+	background: #9c9ea1;
+	border-radius: 3px;
+	position: relative;
+	behavior: url(PIE.htc);
+}
+.main .recommend{
+	width: 1170px;
+	height: 532px;
+	margin: 0 auto 21px;
+}
+.recommend h3{
+	width: 100%;
+	height: 67px;
+	line-height: 67px;
+	font-size: 24px;
+	color: #fff;
+	font-weight: 400;
+}
+.recommend .recoGame{
+	width: 100%;
+	height: 465px;
+}
+.recommend li{
+	width: 376px;
+	height: 222px;
+	float: left;
+	margin: 0 21px 21px 0;
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+}
+.recommend li>img{
+	width: 100%;
+	height: 100%;
+}
+.recommend .noneRight{
+	margin-right: 0;
+}
+.recommend .noneBottom{
+	margin-bottom: 0;
+}
+.recommend .recojia{
+	position: absolute;
+	bottom: 12px;
+	right: 12px;
+	width: 57px;
+	height: 26px;
+	text-align: center;
+	line-height: 26px;
+	color: #fb9114;
+	font-size: 14px;
+	background: #5c5c5c;
+	border-radius: 3px;
+	behavior: url(PIE.htc);
+}
+.recommend .recoMenban{
+	position: absolute;
+	top: 222px;
+	left: 0;
+	width: 376px;
+	height: 206px;
+	padding-top: 16px;
+	text-align: center;
+	background: rgba(41,46,65,.7);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#b2000000,endColorstr=#b2000000);
+}
+.recommend .recoMenban h6{
+	color: #fff;
+	font-weight: 400;
+	font-size: 18px;
+}
+.recommend .recoMenban .infoP{
+	color: #fff;
+	font-size: 14px;
+	width: 280px;
+	line-height: 20px;
+	margin: 30px auto;
+}
+.recommend .recoMenban .jiaP{
+	width: 100%;
+}
+.recommend .recoMenban .jiaSp{
+	float: left;
+	margin-left: 50px;
+	color: #fb9114;
+	font-size: 16px;
+}
+.recommend .recoMenban .carSp{
+	width: 24px;
+	height: 24px;
+	float: right;
+	margin-right: 52px;
+	background: url(../img/shoeicon.png) no-repeat 50%;
+}
+.main .newShelves{
+	width: 1170px;
+	height: 197px;
+	margin: 0 auto 20px;
+}
+.newShelves h3{
+	width: 100%;
+	height: 67px;
+	line-height: 67px;
+	font-size: 24px;
+	color: #fff;
+	font-weight: 400;
+}
+.newShelves .shelGame{
+	width: 100%;
+	height: 130px;
+}
+.newShelves li{
+	width: 220px;
+	height: 130px;
+	float: left;
+	margin-right: 17px;
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+}
+.newShelves li>img{
+	width: 100%;
+	height: 100%;
+}
+.newShelves .noneMargin{
+	margin-right: 0;
+}
+.newShelves .newjia{
+	position: absolute;
+	bottom: 12px;
+	right: 12px;
+	width: 57px;
+	height: 26px;
+	text-align: center;
+	line-height: 26px;
+	color: #fb9114;
+	font-size: 14px;
+	background: #5c5c5c;
+	border-radius: 3px;
+	behavior: url(PIE.htc);
+}
+.newShelves .newMenban{
+	position: absolute;
+	top: 130px;
+	left: 0;
+	width: 220px;
+	height: 130px;
+	/*padding-top: 8px;*/
+	text-align: center;
+	background: rgba(41,46,65,.7);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#b2000000,endColorstr=#b2000000);
+}
+.newShelves .newMenban h6{
+	color: #fff;
+	font-weight: 400;
+	font-size: 16px;
+}
+.newShelves .newMenban .newinfo{
+	color: #fff;
+	font-size: 12px;
+	width: 180px;
+	line-height: 20px;
+	margin: 0 auto;
+}
+.newShelves .newMenban .newSp{
+	float: left;
+	margin-left: 20px;
+	color: #fb9114;
+	font-size: 16px;
+}
+.newShelves .newMenban .carSp{
+	width: 24px;
+	height: 24px;
+	float: right;
+	margin-right: 20px;
+	background: url(../img/shoeicon.png) no-repeat 50%;
+}
+.main .cutHot{
+	width: 1170px;
+	height: 338px;
+	margin: 0 auto 20px;
+}
+.cutHot h3{
+	width: 100%;
+	height: 67px;
+	line-height: 67px;
+	font-size: 24px;
+	color: #fff;
+	font-weight: 400;
+}
+.cutHot .cutGame{
+	width: 100%;
+	height: 271px;
+}
+.cutHot .leftBig{
+	width: 459px;
+	height: 271px;
+	float: left;
+	margin-left: 0;
+	position: relative;
+}
+.cutHot li{
+	width: 220px;
+	height: 130px;
+	float: left;
+	margin-left: 17px;
+	cursor: pointer;
+	position: relative;
+}
+.cutHot li>img{
+	width: 100%;
+	height: 100%;
+}
+.cutHot .cutjia{
+	position: absolute;
+	bottom: 12px;
+	right: 12px;
+	width: 57px;
+	height: 26px;
+	text-align: center;
+	line-height: 26px;
+	color: #fb9114;
+	font-size: 14px;
+	background: #5c5c5c;
+	border-radius: 3px;
+	behavior: url(PIE.htc);
+}
+.cutHot .noneMargin{
+	margin-bottom: 11px;
+}
+.cutHot li img{
+	width: 100%;
+}
+.cutHot .cutMenban{
+	width: 280px;
+	height: 212px;
+	position: absolute;
+	top: 0;
+	left: 220px;
+	z-index: 999;
+	background: #dee6ec;
+	border-radius: 10px;
+	behavior: url(PIE.htc);
+	/*overflow: hidden;*/
+	display: none;
+	border: 6px solid transparent;
+	background-clip: content-box;
+}
+.cutHot .leftBig .cutMenban{
+	left: 459px;
+}
+.cutHot .cutrightLi .cutMenban{
+	left: -292px;
+}
+.cutHot .cutMenban .sanjiao{
+	width: 0;
+	height: 0;
+	border-right: 6px solid #fb9315;
+	border-bottom: 6px solid transparent;
+	border-top: 6px solid transparent ;
+	position: absolute;
+	left: -6px;
+	top: 20px;
+	z-index: 999;
+}
+.cutHot .cutrightLi .cutMenban .sanjiao{
+	border-right: none;
+	border-left: 6px solid #fb9315;
+	left: 280px;
+}
+.cutHot .cutMenban h6{
+	width: 100%;
+	height: 48px;
+	font-weight: 400;
+	font-size: 20px;
+	color: #FFF;
+	text-indent: 20px;
+	line-height: 48px;
+	background: #fb9315;
+	border-radius: 5px 5px 0 0;
+	behavior: url(PIE.htc);
+}
+.cutHot .cutMenban .cutText{
+	width: 260px;
+	margin: 0 auto 12px;
+	line-height: 30px;
+	font-size: 14px;
+	border-bottom: 1px dashed #aab4bb;
+}
+.cutHot .cutMenban .cutSp{
+	float: left;
+	margin-left: 20px;
+	color: #fb9114;
+	font-size: 16px;
+}
+.cutHot .cutMenban .carSp{
+	width: 24px;
+	height: 24px;
+	float: right;
+	margin-right: 20px;
+	background: url(../img/shoeicon.png) no-repeat 50%;
+}
+.main .moreGame{
+	width: 1170px;
+	/*height: 100px;*/
+	margin: 0 auto 20px;
+}
+.main .moreGame:after{
+	content: "";
+	display: block;
+	width: 0;
+	height: 0;
+	overflow: hidden;
+	clear: both;
+}
+.moreGame .moreLeft{
+	width: 825px;
+	float: left;
+}
+.moreGame .moreLeft .moreTop{
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+}
+.moreGame .moreLeft .moreTop div{
+	float: left;
+}
+.moreGame .moreLeft .moreTop button{
+	width: 58px;
+	height: 28px;
+	border: 1px solid #9c9ea1;
+	border-radius: 3px;
+	position: relative;
+	behavior: url(css/PIE.htc);
+	outline: none;
+	margin-right: 12px;
+	color: #fff;
+	line-height: 28px;
+	background: #393d42;
+	vertical-align: middle;
+	cursor: pointer;
+}
+.moreGame .moreLeft .moreTop button:hover{
+	background: #9c9ea1;
+}
+.moreGame .moreLeft .moreTop .actMore{
+	background: #9c9ea1;
+}
+.moreGame .moreLeft .moreTop span{
+	float: right;
+	line-height: 50px;
+	color: #fff;
+	font-size: 14px;
+	cursor: pointer;
+}
+.moreGame .moreLeft .moreTop span:after{
+	content: "";
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin: 0 6px;
+	background: url(../img/more.png) no-repeat;
+	vertical-align: middle;
+}
+.moreGame .moreLeft ul{
+	display: none;
+}
+.moreGame .moreLeft .moreBottom{
+	display: block;
+}
+.moreGame .moreLeft ul li{
+	width: 100%;
+	height: 75px;
+	margin-bottom: 12px;
+	background: #bfbfbf;
+	border-radius: 3px;
+	position: relative;
+	behavior: url(css/PIE.htc);
+	cursor: pointer;
+}
+.moreGame ul .moreBotImg{
+	width: 126px;
+	height: 75px;
+	float: left;
+	overflow: hidden;
+}
+.moreGame ul .moreBotImg img{
+	width: 100%;
+	height: 100%;
+}
+.moreGame ul .moreBotInfo{
+	width: 659px;
+	height: 75px;
+	float: left;
+	background: #bfbfbf;
+	line-height: 75px;
+	padding: 0 20px;
+}
+.moreGame .moreLeft ul li:hover .moreBotInfo{
+	background: #4a4d4d;
+}
+.moreGame .moreLeft .moreBotInfo .morLeft{
+	float: left;
+}
+.moreGame .moreLeft .moreBotInfo .morerig{
+	float: right;
+	color: #ea6744;
+}
+.moreGame .moreRight{
+	width: 326px;
+	float: right;
+	background: #fb9114;
+	border-radius: 5px;
+	position: relative;
+	behavior: url(css/PIE.htc);
+	padding-bottom:20px;
+}
+.moreGame .moreRight h2{
+	width: 100%;
+	height: 75px;
+	line-height: 75px;
+	text-indent: 12px;
+	background: #dee6ec;
+	border-radius: 5px 5px 0 0;
+	position: relative;
+	behavior: url(css/PIE.htc);
+}
+.moreGame .moreRight h2 span{
+	margin-left: 12px;
+	color: #eb6100;
+}
+.moreGame .moreRight li{
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	cursor: pointer;
+}
+.moreGame .moreRight .odd{
+	background: #c9d4d9;
+}
+.moreGame .moreRight .even{
+	background: #dee6ec;
+}
+.moreGame .moreRight li:hover{
+	background: #aab4bb;
+}
+.moreGame .moreRight li .picbox{
+	width: 52px;
+	height: 31px;
+	float: left;
+	background: red;
+	margin: 10px 8px 0;
+	overflow: hidden;
+}
+.moreGame .moreRight li .picbox img{
+	width: 100%;
+	height: 100%;
+}
+.moreGame .moreRight li .painum{
+	width: 31px;
+	height: 31px;
+	float: left;
+	margin: 10px 8px 0;
+	text-align: center;
+	line-height: 31px;
+	color: #fff;
+	background: #96a3ae;
+	border-radius: 50%;
+	behavior: url(css/PIE.htc);
+}
+.moreGame .moreRight li .paisp{
+	float: left;
+	height: 31px;
+	line-height: 31px;
+	margin: 10px 8px 0;
+	font-size: 14px;
+}
+.main .publisher{
+	width: 1170px;
+	height: 282px;
+	margin: 0 auto;
+}
+.publisher h3{
+	width: 100%;
+	height: 67px;
+	line-height: 67px;
+	font-size: 24px;
+	color: #fff;
+	font-weight: 400;
+}
+.publisher .pubGame{
+	width: 100%;
+	height: 215px;
+}
+.publisher li{
+	width: 212px;
+	height: 78px;
+	float: left;
+	margin: 0 25px 20px 0;
+	border: 1px solid #9c9ea1;
+}
+.publisher .noneMargin{
+	margin: 0;
+}
+.footer{
+	width: 100%;
+	height: 200px;
+	background: #292e41;
+}
+.footer iframe{
+	width: 1170px;
+	height: 200px;
+	display: block;
+	margin: 0 auto;
+}

@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>sonkwo</title>
+		<link rel="icon" href="img/tilog.png" />
+		<link rel="stylesheet" href="css/header.css" type="text/css" />
+		<link rel="stylesheet" href="css/homePageMain.css" type="text/css" />
+	</head>
+	<body>
+		<div class="warp">
+			<div class="header">
+				<div class="headCont">
+					<a href="" class="logo">
+						<img src="img/logo.png" alt="" />
+					</a>
+					<ul class="homePage">
+						<li><a href="homePage.html">首页</a></li>
+						<li><a href="shoePage.html"><img src="img/shoeCaricon.png"/></a></li>
+					</ul>
+					<div class="searchLogin">
+						<div class="searchBox">
+							<div>
+								<input id="searchInp" class="searchInp" type="text" placeholder="请输入关键字" />
+								<button class="searchBtn"></button>
+							</div>
+							<ul></ul>
+						</div>
+						<button class="regis"><a href="enrollPage.html">注册</a></button>
+						<button class="login"><a href="loginPage.html">登录</a></button>
+					</div>
+				</div>
+			</div>
+			<div class="main">
+				<div class="mainTop">
+					<div class="gameType">
+						<ul id="menu">
+							<li>按类型
+								<ul  class="submenu dismenu">
+									<li>动作冒险</li>
+									<li>射击</li>
+									<li>角色扮演</li>
+									<li>策略</li>
+									<li>赛车竞速</li>
+								</ul>
+							</li>
+							<li>按系统
+								<ul class="submenu">
+									<li>Win</li>
+									<li>Linux</li>
+									<li>Mac</li>
+								</ul>
+							</li>
+							<li>按价格
+								<ul class="submenu">
+									<li>免费</li>
+									<li>10-50元</li>
+									<li>50-100元</li>
+									<li>100元以上</li>
+								</ul>
+							</li>
+							<li>热门标签
+								<ul class="submenu">
+									<li>预售游戏</li>
+									<li>新品游戏</li>
+									<li>促销游戏</li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+					<div id="banner">
+						<div id="imgWarp">
+							<ul id="imgBox">
+								<li><img src="img/banner1.jpg" alt="" /></li>
+								<li><img src="img/banner2.jpg" alt="" /></li>
+								<li><img src="img/banner3.jpg" alt="" /></li>
+								<li><img src="img/banner4.jpg" alt="" /></li>
+								<li><img src="img/banner5.jpg" alt="" /></li>
+								<li><img src="img/banner6.jpg" alt="" /></li>
+								<li><img src="img/banner7.jpg" alt="" /></li>
+								<li><img src="img/banner8.jpg" alt="" /></li>
+								<li><img src="img/banner9.jpg" alt="" /></li>
+								<li><img src="img/banner10.jpg" alt="" /></li>
+								<li><img src="img/banner11.jpg" alt="" /></li>
+								<li><img src="img/banner12.jpg" alt="" /></li>
+							</ul>
+						</div>
+						<div id="tabBtn">
+							<button id="leftBtn"></button>
+							<div id="sliderBox"><div id="slider"></div></div>
+							<button id="rightBtn"></button>
+						</div>						
+					</div>
+					<div class="topRight">
+						<ul id="tabImgWarp">
+							<li><img id="10" src="img/shanggujuanzhou111.jpg" alt="" /></li>
+							<li><img id="4" src="img/daojianshenyu111.jpg" alt="" /></li>
+							<li><img id="5" src="img/dushitianjixian111.jpg" alt="" /></li>
+							<li><img id="1" src="img/nba2k18111.png" alt="" /></li>
+						</ul>
+						<div id="tabPageWarp">
+							<button id="leftTabBtn"></button>
+							<p>正在显示&nbsp;<span id="pageNum"></span>/4&nbsp;页</p>
+							<button id="rightTabBtn"></button>
+						</div>
+					</div>
+				</div>
+				<div class="recommend">
+					<h3>精品推荐</h3>
+					<div class="recoGame">
+						<ul>
+							<li>
+								<img id="2" src="img/re1.jpg" alt="" />
+								<span class="recojia">￥159.00</span>
+								<div class="recoMenban">
+									<h6>足球经理</h6>
+									<p class="infoP">大家都说足球是一场意见战，每个人都有各自的看法，但是在这里你说了算。</p>
+									<p class="jiaP"><span class="jiaSp">￥159.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li>
+								<img id="3" src="img/re2.jpg" alt="" />
+								<span class="recojia">￥220.00</span>
+								<div class="recoMenban">
+									<h6>生化危机7</h6>
+									<p class="infoP">最高评分的*年度本世代主机体育游戏再次回归了，《NBA 2K18》将为赛场带来前所未有的真实性和改进。</p>
+									<p class="jiaP"><span class="jiaSp">￥220.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li class="noneRight">
+								<img id="1" src="img/p1.jpg" alt="" />
+								<span class="recojia">￥199.00</span>
+								<div class="recoMenban">
+									<h6>NBA 2K18</h6>
+									<p class="infoP">最高评分的*年度本世代主机体育游戏再次回归了，《NBA 2K18》将为赛场带来前所未有的真实性和改进。</p>
+									<p class="jiaP"><span class="jiaSp">￥199.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li class="noneBottom">
+								<img id="4" src="img/p5.jpg" alt="" />
+								<span class="recojia">￥278.00</span>
+								<div class="recoMenban">
+									<h6>刀剑神域</h6>
+									<p class="infoP">2026年，全新的VRMMORPG游戏「Sword Art: Origin」正式上线。</p>
+									<p class="jiaP"><span class="jiaSp">￥278.00.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li class="noneBottom">
+								<img id="5" src="img/cu2.jpg" alt="" />
+								<span class="recojia">￥19.00</span>
+								<div class="recoMenban">
+									<h6>都市：天际线</h6>
+									<p class="infoP">这是一个规则都由你制定的世界。《都市：天际线》邀请你来建造梦想中的城市。</p>
+									<p class="jiaP"><span class="jiaSp">￥19.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li class="noneRight noneBottom">
+								<img id="6" src="img/cu4.jpg" alt="" />
+								<span class="recojia">￥89.00</span>
+								<div class="recoMenban">
+									<h6>终极街霸IV</h6>
+									<p class="infoP">《终极街霸IV》加入了五名全新角色以及六个全新的格斗场景，重新调整了游戏的平衡性与模式。</p>
+									<p class="jiaP"><span class="jiaSp">￥89.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="newShelves">
+					<h3>最新上架</h3>
+					<div class="shelGame">
+						<ul>
+							<li>
+								<img id="7" src="img/ne1.jpg" alt="" />
+								<span class="newjia">￥48.00</span>
+								<div class="newMenban">
+									<h6>乌诺格</h6>
+									<p class="newinfo">进入稀奇古怪的 Uurnog Uurnlimited 世界，在这里你只有一个目标。</p>
+									<p class="jiaP"><span class="newSp">￥48.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li>
+								<img id="1" src="img/loginimg.jpg" alt="" />
+								<span class="newjia">￥199.00</span>
+								<div class="newMenban">
+									<h6>NBA 2K18</h6>
+									<p class="newinfo">最高评分的*年度本世代主机体育游戏再次回归了，《NBA 2K18》将为赛场带来前所未有的真实性和改进。</p>
+									<p class="jiaP"><span class="newSp">￥199.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li>
+								<img id="4" src="img/p5.jpg" alt="" />
+								<span class="newjia">￥278.00</span>
+								<div class="newMenban">
+									<h6>刀剑神域</h6>
+									<p class="newinfo">2026年，全新的VRMMORPG游戏「Sword Art: Origin」正式上线。</p>
+									<p class="jiaP"><span class="newSp">￥278.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li>
+								<img id="6" src="img/cu4.jpg" alt="" />
+								<span class="newjia">￥89.00</span>
+								<div class="newMenban">
+									<h6>终极街霸IV</h6>
+									<p class="newinfo">《终极街霸IV》加入了五名全新角色以及六个全新的格斗场景，重新调整了游戏的平衡性与模式。</p>
+									<p class="jiaP"><span class="newSp">￥89.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li class="noneMargin">
+								<img id="8" src="img/ne5.jpg" alt="" />
+								<span class="newjia">￥99.00</span>
+								<div class="newMenban">
+									<h6>辐射 4</h6>
+									<p class="newinfo">《辐射3》与《上古卷轴5：天际》的创造者Bethesda游戏工作室正式向大家介绍《辐射4》的世界。</p>
+									<p class="jiaP"><span class="newSp">￥99.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="cutHot">
+					<h3>社区热门</h3>
+					<div class="cutGame">
+						<ul>
+							<li class="leftBig">
+								<img id="9" src="img/cu1.jpg" alt="" />
+								<span class="cutjia">￥99.00</span>
+								<div class="cutMenban">
+									<span class='sanjiao'></span>
+									<h6>欧洲卡车模拟2</h6>
+									<p class="cutText">驾驶路上霸主的卡车穿越整个欧洲大陆，将重要的货物送往遥远的目的地！</p>
+									<p class="cutP"><span class="cutSp">￥99.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li class="noneMargin">
+								<img id="5" src="img/cu2.jpg" alt="" />
+								<span class="cutjia">￥19.00</span>
+								<div class="cutMenban">
+									<span class='sanjiao'></span>
+									<h6>都市：天际线</h6>
+									<p class="cutText">这是一个规则都由你制定的世界。《都市：天际线》邀请你来建造梦想中的城市</p>
+									<p class="cutP"><span class="cutSp">￥19.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li class="noneMargin">
+								<img id="2" src="img/banner6.jpg" alt="" />
+								<span class="cutjia">￥159.00</span>
+								<div class="cutMenban">
+									<span class='sanjiao'></span>
+									<h6>足球经理</h6>
+									<p class="cutText">大家都说足球是一场意见战，每个人都有各自的看法，但是在这里你说了算。</p>
+									<p class="cutP"><span class="cutSp">￥159.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li class="noneMargin cutrightLi">
+								<img id="6" src="img/cu4.jpg" alt="" />
+								<span class="cutjia">￥89.00</span>
+								<div class="cutMenban">
+									<span class='sanjiao'></span>
+									<h6>终极街霸IV</h6>
+									<p class="cutText">《终极街霸IV》加入了五名全新角色以及六个全新的格斗场景，重新调整了游戏的平衡性与模式，为您带来终极格斗体验。</p>
+									<p class="cutP"><span class="cutSp">￥89.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li>
+								<img id="10" src="img/banner7.jpg" alt="" />
+								<span class="cutjia">￥88.00</span>
+								<div class="cutMenban">
+									<span class='sanjiao'></span>
+									<h6>奇迹时代3</h6>
+									<p class="cutText">《奇迹时代3》是一款万众期待的获奖作品的续作。游戏包括帝国建造，角色扮演以及战争冲突等元素。</p>
+									<p class="cutP"><span class="cutSp">￥88.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li>
+								<img id="3" src="img/banner9.jpg" alt="" />
+								<span class="cutjia">￥220.00</span>
+								<div class="cutMenban">
+									<span class='sanjiao'></span>
+									<h6>生化危机7</h6>
+									<p class="cutText">于美国南部的一间被废置的农舍，腐烂的墙身渗透着一股恐怖及孤独的氛围.</p>
+									<p class="cutP"><span class="cutSp">￥220.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+							<li class="cutrightLi">
+								<img id="1" src="img/loginimg.jpg" alt="" />
+								<span class="cutjia">￥</span>
+								<div class="cutMenban">
+									<span class='sanjiao'></span>
+									<h6>NBA 2K18</h6>
+									<p class="cutText">最高评分的*年度本世代主机体育游戏再次回归了，《NBA 2K18》将为赛场带来前所未有的真实性和改进。</p>
+									<p class="cutP"><span class="cutSp">￥199.00</span><span class="carSp"></span></p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="moreGame">
+					<div class="moreLeft">
+						<div class="moreTop">
+							<div>
+								<button class="actMore">最新</button>
+								<button>预售</button>
+								<button>促销</button>
+							</div>
+							<span>更多游戏</span>
+						</div>
+						<div id="bot">
+							<ul class="moreBottom">
+								<li>
+									<div class="moreBotImg">
+										<img id="1" src="img/loginimg.jpg"/>
+									</div>
+									<div class="moreBotInfo">
+										<span class='morLeft'>nba2k18</span>
+										<span class="morerig">￥199.00</span>
+									</div>
+								</li>
+								<li>
+									<div class="moreBotImg">
+										<img id="2" src="img/banner6.jpg" alt="" />
+									</div>
+									<div class="moreBotInfo">
+										<span class='morLeft'>足球经理</span>
+										<span class="morerig">￥159.00</span>
+									</div>
+								</li>
+								<li>
+									<div class="moreBotImg">
+										<img id="4" src="img/p5.jpg"/>
+									</div>
+									<div class="moreBotInfo">
+										<span class='morLeft'>刀剑神域</span>
+										<span class="morerig">￥278.00</span>
+									</div>
+								</li>
+							</ul>
+							<ul>
+								<li>
+									<div class="moreBotImg">
+										<img id="10" src="img/banner7.jpg" alt="" />
+									</div>
+									<div class="moreBotInfo">
+										<span class='morLeft'>奇迹时代</span>
+										<span class="morerig">￥88.00</span>
+									</div>
+								</li>
+								<li>
+									<div class="moreBotImg">
+										<img id="7" src="img/banner11.jpg"/>
+									</div>
+									<div class="moreBotInfo">
+										<span class='morLeft'>乌诺格</span>
+										<span class="morerig">￥48.00</span>
+									</div>
+								</li>
+							</ul>
+							<ul>
+								<li>
+									<div class="moreBotImg">
+										<img id="1" src="img/loginimg.jpg"/>
+									</div>
+									<div class="moreBotInfo">
+										<span class='morLeft'>nba2k18</span>
+										<span class="morerig">￥199.00</span>
+									</div>
+								</li>
+							</ul>
+						</div>
+						
+					</div>
+					<div class="moreRight">
+						<h2>热销排行<span>TOP10</span></h2>
+						<ul>
+							<li class="odd">
+								<div class="picbox">
+									<img id="1" src="img/loginimg.jpg"/>
+								</div>
+								<span class="painum" style="background: #ea6744;">1</span>
+								<span class="paisp">nba2k18</span>
+							</li>
+							<li class="even">
+								<div class="picbox">
+									<img id="2" src="img/banner6.jpg"/>
+								</div>
+								<span class="painum" style="background: #fa9214;">2</span>
+								<span  class="paisp">足球经理</span>
+							</li>
+							<li class="odd">
+								<div class="picbox">
+									<img id="10" src="img/banner7.jpg"/>
+								</div>
+								<span class="painum" style="background: #4ebc9c;">3</span>
+								<span class="paisp">奇迹时代</span>
+							</li>
+							<li class="even">
+								<div class="picbox">
+									<img id="4" src="img/p5.jpg"/>
+								</div>
+								<span class="painum">4</span>
+								<span class="paisp">刀剑神域</span>
+							</li>
+							<li class="odd">
+								<div class="picbox">
+									<img id="9" src="img/cu1.jpg"/>
+								</div>
+								<span class="painum">5</span>
+								<span class="paisp">欧洲开车模拟2</span>
+							</li>
+							<li class="even">
+								<div class="picbox">
+									<img id="7" src="img/banner11.jpg"/>
+								</div>
+								<span class="painum">6</span>
+								<span class="paisp">乌诺格</span>
+							</li>
+							<li class="odd">
+								<div class="picbox">
+									<img id="3" src="img/banner9.jpg"/>
+								</div>
+								<span class="painum">7</span>
+								<span class="paisp">生化危机7</span>
+							</li>
+							<li class="even">
+								<div class="picbox">
+									<img id="5" src="img/cu2.jpg"/>
+								</div>
+								<span class="painum">8</span>
+								<span class="paisp">都市：天际线</span>
+							</li>
+							<li class="odd">
+								<div class="picbox">
+									<img id="8" src="img/ne5.jpg"/>
+								</div>
+								<span class="painum">9</span>
+								<span class="paisp">辐射4</span>
+							</li>
+							<li class="even">
+								<div class="picbox">
+									<img id="6" src="img/cu4.jpg"/>
+								</div>
+								<span class="painum">10</span>
+								<span class="paisp">终极街霸IV</span>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="publisher">
+					<h3>发行商目录</h3>
+					<div class="pubGame">
+						<ul>
+							<li>
+								<img src="img/pu1.png" alt="" title="Capcom"/>
+							</li>
+							<li>
+								<img src="img/pu2.png" alt="" title="Ubisoft"/>
+							</li>
+							<li>
+								<img src="img/pu3.png" alt="" title="KOEI TECMO"/>
+							</li>
+							<li>
+								<img src="img/pu4.png" alt="" title="Paradox"/>
+							</li>
+							<li class="noneMargin">
+								<img src="img/pu5.png" alt="" title="Bethesda"/>
+							</li>
+							<li>
+								<img src="img/pu6.png" alt="" title="Bandai Namco"/>
+							</li>
+							<li>
+								<img src="img/pu7.png" alt="" title="THQ Nordic"/>
+							</li>
+							<li>
+								<img src="img/pu8.png" alt="" title="505 Games"/>
+							</li>
+							<li>
+								<img src="img/pu9.png" alt="" title="Deep Silver"/>
+							</li>
+							<li class="noneMargin">
+								<img src="img/pu10.png" alt="" title="Warner Bros"/>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="footer">
+				<iframe allowtransparency="true" frameborder="0" src="footer.html" scrolling="no"></iframe>
+			</div>
+		</div>
+		<script src="https://code.jquery.com/jquery-1.8.0.min.js"></script>
+		<!--<script src="js/jquery-2.1.0.js" type="text/javascript"></script>-->
+		<script src="js/homePage.js" type="text/javascript"></script>
+	</body>
+</html>

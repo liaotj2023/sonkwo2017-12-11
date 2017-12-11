@@ -1,0 +1,144 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "微软雅黑";
+}
+a{
+	text-decoration: none;
+}
+ul,li{
+	list-style: none;
+}
+img{
+	border: none;
+}
+.warp{
+	width: 100%;
+}
+.header{
+	width: 100%;
+	height: 80px;
+	background: #292e41;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10000;
+}
+.header .headCont{
+	width: 1201px;
+	height: 80px;
+	margin: 0 auto;
+}
+.header .headCont .logo{
+	float: left;
+	margin-top: 10px;
+}
+.header .homePage{
+	float: left;
+	margin: 0 0 0 50px;
+	line-height: 80px;
+}
+.header .homePage li{
+	float: left;
+	margin-right: 50px;
+}
+.header .homePage li a{
+	color: #fff;
+}
+.header .homePage li a img{
+	vertical-align: middle;
+}
+.header .searchLogin{
+	float: right;
+	padding-top: 20px;
+}
+.header .searchLogin .searchBox{
+	width: 298px;
+	height: 36px;
+	float: left;
+	margin-right: 25px;
+	position: relative;
+	/*overflow: hidden;*/
+}
+.header .searchLogin .searchBox div{
+	width: 298px;
+	height: 36px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+.header .searchInp{
+	float: left;
+	width: 248px;
+	height: 34px;
+	font-size: 16px;
+	text-indent: 10px;
+	border: 1px solid #ececec;
+	outline: none;
+	position: absolute;
+	left: 250px;
+	top: 0;
+}
+.header .searchBtn{
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 48px;
+	height: 36px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	background: #292e41 url(../img/search.png) no-repeat 50% 50%;
+}
+.header .searchLogin .searchBox ul{
+	width: 250px;
+	position: absolute;
+	top: 36px;
+	left: 0;
+	background: #FFF;
+}
+.header .searchLogin .searchBox ul a{
+	color: #2D2D2D;
+	font-size: 14px;
+	margin-left: 8px;
+}
+.header .searchLogin .searchBox ul a:hover{
+	color: dodgerblue;
+	text-decoration: underline;
+}
+.header .searchLogin .login,.header .searchLogin .regis{
+	float: right;
+	width: 68px;
+	height: 36px;
+	font-size: 14px;
+	color: #fff;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+.header .login{
+	background: #3f4354;
+}
+.header .login a{
+	display: block;
+	width: 68px;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	color: #fff;
+}
+.header .regis{
+	background: #ff6900;
+}
+.header .regis a{
+	display: block;
+	width: 68px;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	color: #fff;
+}

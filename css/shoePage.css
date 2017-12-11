@@ -1,0 +1,148 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #393d42;
+	font-family: "微软雅黑";
+}
+a{
+	text-decoration: none;
+}
+ul,li{
+	list-style: none;
+}
+img{
+	border: none;
+}
+.shoeMain{
+	width: 940px;
+	min-height: 674px;
+	padding: 0 20px 50px;
+	margin: 128px auto 45px;
+	background: #f5f5f5;
+}
+.shoeMain h2{
+	line-height: 105px;
+	font-size: 32px;
+	font-weight: 600;
+	border-bottom: 2px dashed #b7b7b7;
+	margin-bottom: 10px;
+}
+.shopbox{
+	background: #FFF;
+	padding: 0 15px 40px;
+}
+.shopbox h6{
+	color: #6c6c67;
+	line-height: 40px;
+	font-size: 16px;
+}
+.entryTitle{
+	height: 36px;
+	line-height: 36px;
+	padding-left: 24px;
+	background: #d6e4fa;
+	margin-bottom: 20px;
+}
+.entryTitle p{
+	float: left;
+}
+.entryTitle .one{
+	cursor: pointer;
+}
+.entryTitle .one input,.entryTitle .one label{
+	cursor: pointer;
+}
+#entryUl{
+	width: 860px;
+	background: #f5f5f5;
+	margin: 0 auto;
+}
+#entryUl:after{
+	content: "";
+	height: 0;
+	overflow: hidden;
+	display: block;
+	clear: both;
+}
+#entryUl li{
+	width: 848px;
+	padding-left: 12px;
+	line-height: 40px;
+	height: 40px;
+	cursor: pointer;
+}
+#entryUl li p{
+	float: left;
+	width: 180px;
+	text-align: center;
+	margin-left: 27px;
+}
+#entryUl li .inp{
+	margin: 0;
+	width: 20px;
+	cursor: pointer;
+}
+#entryUl li .inp input{
+	cursor: pointer;
+}
+.allwares{
+	/*width: 100%;*/
+	height: 63px;
+	line-height: 63px;
+	font-size: 16px;
+	background: #fff;
+	padding-left: 720px;
+	border-top: 2px solid #f5f5f5;
+}
+.allwares p{
+	float: left;
+	margin-right: 16px;
+	font-size: 14px;
+}
+.allwares .moneyP{
+	font-weight: 600;
+}
+#allNum{
+	font-weight: 600;
+	color: #eb6100;
+}
+#allNum{
+	color: #eb6100;
+}
+.buyBtnBox{
+	height: 94px;
+	line-height: 94px;
+	padding-left: 690px;
+}
+.buyBtnBox .gohome{
+	font-size: 14px;
+	color: #2f5c94;
+	margin-right: 16px;
+}
+.buyBtnBox .gohome:hover{
+	color: blue;
+	text-decoration: underline;
+}
+#buyBtn{
+	width: 140px;
+	height: 34px;
+	color: #fff;
+	background: #eb6100;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+.footer{
+	width: 100%;
+	height: 200px;
+	background: #292e41;
+}
+.footer iframe{
+	width: 1170px;
+	height: 200px;
+	display: block;
+	margin: 0 auto;
+}

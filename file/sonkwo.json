@@ -1,0 +1,385 @@
+{
+	"1":{
+		"name":"NBA 2K18",
+		"typeTitle":"体育竞技",
+		"gameJian":"最高评分的*年度本世代主机体育游戏再次回归了，《NBA 2K18》将为赛场带来前所未有的真实性和改进。",
+		"price":"￥199.00",
+		"buybig": "img/p1.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/nba1.png","photo/nba2.png","photo/nba3.png","photo/nba4.png","photo/nba5.png","photo/nba6.png"]
+			},
+			{
+				"showTitle":"视频",
+				"tabArr":["photo/nbashisrc1.png","photo/nbashisrc2.png"],
+				"ifrSrc":["https://s1.sonkwo.com/liX_H-h8PYICOluyQJvc_jsw3JLo","https://s1.sonkwo.com/Fm1Wzh6uzwKYBBsYcefuPZXMT6fs"]
+			}
+		],
+		"xianjie": [
+			"  见证运动生涯模式的未来：让您随心所欲地玩游戏。透过NBA比赛建立起您的篮球生涯、到运动场的篮 球场打球、加入职业业余混合赛，或是在全新开放的邻里设定中到各大商店与场所一探究竟。另有全新 的自创球员升级与代言系统、包含NBA球员的至今最庞大角色阵容，以及其他更多精彩特色。",
+			"  包罗万象的小游戏，奖励玩家提高他们自创球员的整体评价，无论他们选择玩何种模式。提供了横跨职 业业余混合赛，街头公园以及您在辉煌生涯里的NBA旅程的统一徽章系统。在您迈向99整体评价的过程 中，您的属性、动作（动画）和徽章将定义您的打球风格。",
+			"  开发团队投入了无数小时的时间，只为了让每一位NBA球员看起来及感觉起来与他们在现实世界中的本 尊无异，而且就连最小的细节也不放过，例如疤痕、生长纹、退色的刺青等等。球员躯体系统已经过重 新设计，以便能精确地重现联盟里每位球员的体格。另外，也从无到有重建了所有球员的脸孔，好更细 腻地呈现更多细节，以及更逼真地呈现光影效果。"
+		],
+		"peizhi": [
+			{"操作系统 :":"Windows 7x64 / Windows 8.1x64 / Windows 10x64"},
+			{"处理器 :":"Intel® Core™ i5-4430 @ 3 GHz / AMD FX-8370 @ 3.4 GHz or better"},
+			{"内存 :":"内存 8 GB RAM"},
+			{"图形 :":"NVIDIA® GeForce® GTX 770 2GB / ATI® Radeon™ R9 270 2GB or better"},
+			{"存储空间 :":"需要 70 GB 可用空间"}
+		],
+		"rightInfo":[
+			{"开发商":"Visual Concepts"},
+			{"发行商":"2k"},
+			{"发行日期":"2017-11-21"},
+			{"游戏语言":"简体中文 / 英文"},
+			{"容量":"70 GB"}
+		],
+		"pinfen":"8.8",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	},
+	"2":{
+		"name":"足球经理",
+		"typeTitle":"体育竞技",
+		"gameJian":"大家都说足球是一场意见战，每个人都有各自的看法，但是在这里你说了算。",
+		"price":"￥159.00",
+		"buybig": "img/p4.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/zu1.jpg","photo/zu2.jpg","photo/zu3.jpg","photo/zu4.jpg","photo/zu5.jpg","photo/zu6.jpg","photo/zu7.jpg","photo/zu8.jpg","photo/zu9.jpg"]
+			},
+			{
+				"showTitle":"视频",
+				"tabArr":["photo/zushi1.png"],
+				"ifrSrc":["https://s1.sonkwo.com/lnZ-5ja6_6Yb7IkNnIOxm_OC6G1Q"]
+			}
+		],
+		"xianjie": [
+			" 现在一切由你作主，你可以掌控球员的转会交易，也拥有控管预算的决定权。你是否能够为球员自由灵活安排战术，并训练球员在场上发挥战力？出场球员跟替补球员的选择将影响球队和谐，一切调度由你安排。你必须承担每个决定所带来的结果。",
+			" 精准判断、果决行事，你就是足球界闪亮之星。你将霸占各报头条、在各大媒体间掀起一阵旋风。你将名留足坛……当然，前提是你必须成功。",
+			" 身历足球世界，球场内外各个重大抉择都掌握在你手中，现在，你必须决定自己要成为怎样的足球经理！",
+			" ● 在全球最负盛名的 50 个足球国家一展身手。",
+			" ● 从世界 2500 大足球球会择一，赢得冠军头衔。",
+			" ● 与超过 60 万名真实球员和员工一起畅玩转会市场。",
+			" ● 亲眼见证自己的足球理念付诸实践。"
+		],
+		"peizhi": [
+			{"操作系统 :":"Windows Vista (SP2), 7 (SP1), 8/8.1, 10 (1703/Creators Update) - 64-bit or 32-bit"},
+			{"处理器 :":"Intel Pentium 4, Intel Core or AMD Athlon – 2.2 GHz +"},
+			{"内存 :":"2 GB RAM"},
+			{"图形 :":"Intel GMA X4500, NVIDIA GeForce 9600M GT or AMD/ATI Mobility Radeon HD 3650 – 256MB VRAM"},
+			{"存储空间 :":"需要 7 GB 可用空间"}
+		],
+		"rightInfo":[
+			{"开发商":"Sports Interactive"},
+			{"发行商":"SEGA"},
+			{"发行日期":"2017-11-11"},
+			{"游戏语言":"简体中文 / 繁体中文 / 英文"},
+			{"容量":"7 GB"}
+		],
+		"pinfen":"8.0",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	},
+	"3":{
+		"name":"生化危机7",
+		"typeTitle":"动作冒险",
+		"gameJian":"于美国南部的一间被废置的农舍，腐烂的墙身渗透着一股恐怖及孤独的氛围， 「7」标志着全新的恐怖求生体验。",
+		"price":"￥220.00",
+		"buybig": "img/banner9.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/she1.bmp","photo/she2.bmp","photo/she3.bmp","photo/she4.bmp","photo/she5.bmp","photo/she6.bmp","photo/she7.bmp","photo/she8.bmp"]
+			},
+			{
+				"showTitle":"视频",
+				"tabArr":["photo/sheshi1.jpg"],
+				"ifrSrc":["https://s1.sonkwo.com/liGOTwqXEBu6LNL_TTrzffheqhwW"]
+			}
+		],
+		"xianjie": [
+			" 于美国南部的一间被废置的农舍，腐烂的墙身渗透着一股恐怖及孤独的氛围。 「7」标志着全新的恐怖求生体验，以及玩家视觉切换为更骇人的虚拟实境－「隔离视觉」模式。有赖RE工程部的努力，恐怖的写实感提升至一个全新的境界，玩家并没有任何退路可选。让你进入恐怖求生的新世界。"
+		],
+		"peizhi": [
+			{"操作系统 :":" WINDOWS® 7, 8, 8.1, 10 (64-BIT Required) "},
+			{"处理器 :":" Intel® Core™ i7 3770 3.4GHz or AMD equivalent or better "},
+			{"内存 :":"8 GB RAM "},
+			{"图形 :":"NVIDIA® GeForce® GTX 1060 with 3GB VRAM "},
+			{"存储空间 :":"需要 24 GB 可用空间 "}
+		],
+		"rightInfo":[
+			{"开发商":"Capcom"},
+			{"发行商":"Capcom"},
+			{"发行日期":"2017-01-24"},
+			{"游戏语言":"简体中文 / 繁体中文 / 英文"}
+		],
+		"pinfen":"9.6",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	},
+	"4":{
+		"name":"刀剑神域",
+		"typeTitle":"角色扮演",
+		"gameJian":"2026年，全新的VRMMORPG游戏「Sword Art: Origin」正式上线。桐人在游戏中遇上一位神秘NPC，并收到不明讯息。",
+		"price":"￥278.00",
+		"buybig": "img/p5.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/dao1.jpg","photo/dao2.jpg","photo/dao3.jpg","photo/dao4.jpg","photo/dao5.jpg","photo/dao6.jpg","photo/dao7.jpg"]
+			},
+			{
+				"showTitle":"视频",
+				"tabArr":["photo/daoshi1.png"],
+				"ifrSrc":["https://s1.sonkwo.com/lmVdAjm8k34GNFucOnRws8I51Ni8"]
+			}
+		],
+		"xianjie": [
+			"本游戏将包含季票与超值特典（含新娘礼服在内，共3件特殊服装）。",
+			"2026年，全新的VRMMORPG游戏「Sword Art: Origin」正式上线。",
+			"桐人在游戏中遇上一位神秘NPC，并收到不明讯息。",
+			"这游戏，早已和他所熟悉的世界截然不同……",
+			"刀剑神域原作川原砾老师所监製的全新原创剧情。",
+			"为您呈现更壮阔世界观与更刺激的冒险。",
+			"在有如原创MMORPG般的游戏感与介面中，",
+			"您可利用多人游玩模式与3位伙伴连线，",
+			"各带4人小队，尽情享受16人联手挑战头目的快感。"
+		],
+		"peizhi": [
+			{"操作系统 :":" Windows 7/8/10 (64-bit OS required) "},
+			{"处理器 :":" Intel Core i5-4460 (3.40 GHz) or better; Quad-core or better"},
+			{"内存 :":"8 GB RAM"},
+			{"图形 :":"NNVIDIA GeForce GTX 650 (2GB) or better (DirectX 11 card Required)"},
+			{"存储空间 :":" 需要 40 GB 可用空间 "}
+		],
+		"rightInfo":[
+			{"开发商":"AQURIA"},
+			{"发行商":"Bandai Namco"},
+			{"发行日期":"2017-10-31"},
+			{"游戏语言":"简体中文 / 英文"}
+		],
+		"pinfen":"9.0",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	},
+	"5":{
+		"name":"都市：天际线",
+		"typeTitle":"模拟经营",
+		"gameJian":"这是一个规则都由你制定的世界。《都市：天际线》邀请你来建造梦想中的城市，想想那些直入云霄的摩天大厦，那些难以置信的建筑奇迹，你都可以在此实现。",
+		"price":"￥19.00",
+		"buybig": "img/cu2.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/du1.jpg","photo/du2.jpg","photo/du3.jpg"]
+			},
+			{
+				"showTitle":"视频",
+				"tabArr":["photo/dushi1.jpg","photo/dushi2.jpg","photo/dushi3.jpg"],
+				"ifrSrc":["https://s1.sonkwo.com/lmgDgSy8NhvtM47rSQH4p8ueP0UT","https://s1.sonkwo.com/lgzD6g41_jK4NYKpcPN7BO6X_3wR","https://s1.sonkwo.com/lnbhNBeZBLZeJGtDrbz5GXW2hEWk"]
+			}
+		],
+		"xianjie": [
+			"这是一个规则都由你制定的世界。《都市：天际线》邀请你来建造梦想中的城市，想想那些直入云霄的摩天大厦，那些难以置信的建筑奇迹，你都可以在此实现。",
+			"游戏来自著名的Colossal Order工作室，《都市：天际线》将为你提供一个庞大的沙盒世界，无限的游戏乐趣，以及全新的扩展城市的方式。通过调整税收等政策来控制你的都市是不断成长的关键。玩家还可以自由的选择自己的游戏方式和风格，游戏拥有丰富的内容，绝对是城市建造模拟的不二之选。"
+		],
+		"peizhi": [
+			{"操作系统 :":"Microsoft Windows XP/Vista/7/8/8.1 (64-bit)"},
+			{"处理器 :":"Intel Core 2 Duo, 3.0GHz or AMD Athlon 64 X2 6400+, 3.2GHz"},
+			{"内存 :":" 4 GB RAM"},
+			{"图形 :":"nVIDIA GeForce GTX 260, 512 MB or ATI Radeon HD 5670, 512 MB (Does not support Intel Integrated Graphics Cards)"},
+			{"存储空间 :":" 需要 4 GB 可用空间 "}
+		],
+		"rightInfo":[
+			{"开发商":"Colossal Order"},
+			{"发行商":"Paradox Interactive"},
+			{"发行日期":"2015-03-10"},
+			{"游戏语言":"英文 / 简体中文"}
+		],
+		"pinfen":"9.0",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	},
+	"6":{
+		"name":"终极街霸IV",
+		"typeTitle":"多人联机",
+		"gameJian":"《终极街霸IV》加入了五名全新角色以及六个全新的格斗场景，重新调整了游戏的平衡性与模式，为您带来终极格斗体验。",
+		"price":"￥89.00",
+		"buybig": "img/cu4.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/jie1.jpg","photo/jie2.jpg"]
+			}
+		],
+		"xianjie": [
+			"新角色：五名特色鲜明的新角色，Poison，Hugo，Elena，Rolento以及Decapre将加入战斗，全部可参战角色达到44名。",
+			"新场景：六个全新制作的战斗场景，包括Pitstop 109，Mad Gear Hideout，Cosmic Elevator，Blast Furnace，Half Pipe以及Jurassic Era Research Facility，视觉元素更加丰富。",
+			"重新调整的游戏性：原街机版中的39名角色全部根据玩家们的意见而做出了调整，核心系统也大幅改善，本作将是系列平衡性最高的作品。"
+		],
+		"peizhi": [
+			{"操作系统 :":"Windows XP "},
+			{"处理器 :":"Intel Core 2 Duo 2.0 GHz or better "},
+			{"内存 :":" 1 GB RAM "},
+			{"图形 :":"nVIDIA GeForce GTX 260, 512 MB or ATI Radeon HD 5670, 512 MB (Does not support Intel Integrated Graphics Cards)"},
+			{"存储空间 :":"  12 GB free hard drive space  "}
+		],
+		"rightInfo":[
+			{"开发商":"Capcom"},
+			{"发行商":"Capcom"},
+			{"发行日期":"2014-08-08"},
+			{"游戏语言":"简体中文 / 英文"}
+		],
+		"pinfen":"9.2",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	},
+	"7":{
+		"name":"乌诺格",
+		"typeTitle":"独立",
+		"gameJian":"进入稀奇古怪的 Uurnog Uurnlimited 世界，在这里你只有一个目标：玩转这个世界，把所有动物占为己有！ 为什么？ 因为它们很可爱，因为这是游戏。",
+		"price":"￥48.00",
+		"buybig": "img/ne1.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/wu1.jpg"]
+			},
+			{
+				"showTitle":"视频",
+				"tabArr":["photo/wushi1.png"],
+				"ifrSrc":["https://s1.sonkwo.com/lu8wcY7QHTIgTjPjTKurCQ_JjvVP"]
+			}
+		],
+		"xianjie": [
+			"进入稀奇古怪的 Uurnog Uurnlimited 世界，在这里你只有一个目标：玩转这个世界，把所有动物占为己有！ 为什么？ 因为它们很可爱，因为这是游戏。",
+			"Uurnog Uurnlimited 是受 Super Mario Bros.2、 Lyle in Cube Sector 和 Dyad 启发的一款轻松愉快的 2D 游戏。 探索这个世界里的各种神奇的门，解决谜题，为你的储物室收集物品和动物，可以单人或多人游玩。 不过还是得小心——储物室也会把你犯的错储存起来（呃呃）！",
+			"你问这游戏里还有什么？ 为你的游戏添乱的混乱中立 NPC！ 与游玩过程相配的算法音乐！ 难以置信！ 难以言喻！ Uurnog Uurnlimited！"
+		],
+		"peizhi": [
+			{"操作系统 :":"Windows (64-bit) "},
+			{"处理器 :":"Dual Core 2GHz, x64"},
+			{"内存 :":" 2 GB RAM "},
+			{"图形 :":"Intel HD 5000"},
+			{"存储空间 :":"  12 GB free hard drive space  "}
+		],
+		"rightInfo":[
+			{"开发商":"Nifflas Games"},
+			{"发行商":"Raw Fury"},
+			{"发行日期":"2010-08-08"},
+			{"游戏语言":"简体中文 / 英文"}
+		],
+		"pinfen":"7.0",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	},
+	"8":{
+		"name":"辐射 4",
+		"typeTitle":"角色扮演",
+		"gameJian":"《辐射3》与《上古卷轴5：天际》的创造者Bethesda游戏工作室正式向大家介绍《辐射4》的世界——这是工作室有史以来规模最大的作品，也是一款真正次时代级别的开放世...",
+		"price":"￥99.00",
+		"buybig": "img/ne5.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/fu1.jpg","photo/fu2.jpg"]
+			},
+			{
+				"showTitle":"视频",
+				"tabArr":["photo/fushi1.jpg","photo/fushi2.jpg"],
+				"ifrSrc":["https://s1.sonkwo.com/lsbNFh2DbWB2D8r4Q3pJADRHLb9W","https://s1.sonkwo.com/ls-KzR9iZO8zIu3AtVvD0yeGJhZV"]
+			}
+		],
+		"xianjie": [
+			"《辐射3》与《上古卷轴5：天际》的创造者Bethesda游戏工作室正式向大家介绍《辐射4》的世界——这是工作室有史以来规模最大的作品，也是一款真正次时代级别的开放世界游戏。",
+			"作为111号避难所的最后一名幸存者，你将进入一个被核武器所毁灭的庞大世界。每分每秒都是为了生存的斗争，而每一个选择都掌握在你的手中。也只有你能够重建这个世界，也只有你能够决定废土的命运。欢迎回家。"
+		],
+		"peizhi": [
+			{"操作系统 :":"Windows 7/8/10 (64-bit OS required) "},
+			{"处理器 :":"Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent "},
+			{"内存 :":"8 GB RAM "},
+			{"图形 :":"Intel HD 5000"},
+			{"存储空间 :":"30 GB free HDD space "}
+		],
+		"rightInfo":[
+			{"开发商":"Bethesda Game"},
+			{"发行商":"Bethesda Softworks"},
+			{"发行日期":"2015-11-11"},
+			{"游戏语言":"英文 / 繁体中文"}
+		],
+		"pinfen":"6.9",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	},
+	"9":{
+		"name":"欧洲卡车模拟2",
+		"typeTitle":"赛车竞速",
+		"gameJian":"驾驶路上霸主的卡车穿越整个欧洲大陆，将重要的货物送往遥远的目的地！如果你能拥有成为精英卡车司机的潜质，准备好上车吧！在这里证明你自己！",
+		"price":"￥99.00",
+		"buybig": "img/cu1.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/ou1.jpg","photo/ou2.jpg","photo/ou3.jpg"]
+			},
+			{
+				"showTitle":"视频",
+				"tabArr":["photo/oushi1.jpg"],
+				"ifrSrc":["https://s1.sonkwo.com/lvjkuTQG1QSoRn7XK3nWmncPxk2d"]
+			}
+		],
+		"xianjie": [
+			"驾驶路上霸主的卡车穿越整个欧洲大陆，将重要的货物送往遥远的目的地！在众多欧洲城中之间穿梭，包括英国，比利时，德国，意大利，荷兰，波兰等等，你的耐力，技巧和速度够会被推向极限。如果你能拥有成为精英卡车司机的潜质，准备好上车吧！在这里证明你自己！",
+			"加入我们的卡车世界线上社区，为你的《欧洲卡车模拟2》增添更多的乐趣。这也是我们为全球卡车爱好者创建的虚拟社区，只要你对《欧洲卡车模拟2》或是SCS Software工作室未来的其他作品感兴趣的话，你都可以随时加入。"
+		],
+		"peizhi": [
+			{"操作系统 :":" Windows 7 "},
+			{"处理器 :":" Dual core CPU 2.4 GHz "},
+			{"内存 :":"4 GB RAM "},
+			{"图形 :":"GeForce GTS 450-class (Intel HD 4000) "},
+			{"存储空间 :":"需要 3 GB 可用空间"}
+		],
+		"rightInfo":[
+			{"开发商":"SCS Software"},
+			{"发行商":"Excalibur Publishing"},
+			{"发行日期":"2016-11-30"},
+			{"游戏语言":"英文 / 简体中文"}
+		],
+		"pinfen":"8.1",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	},
+	"10":{
+		"name":"奇迹时代3",
+		"typeTitle":"策略",
+		"gameJian":"《奇迹时代3》是一款万众期待的获奖作品的续作。游戏包括帝国建造，角色扮演以及战争冲突等元素。《奇迹时代3》为该系列的资深玩家和新手玩家提供了终极回合制策略游戏！",
+		"price":"￥88.00",
+		"buybig": "img/banner7.jpg",
+		"tushi":[
+			{
+				"showTitle":"截图",
+				"tabArr": ["photo/shi1.jpg","photo/shi2.jpg"]
+			},
+			{
+				"showTitle":"视频",
+				"tabArr":["photo/qishi1.png","photo/qishi2.png"],
+				"ifrSrc":["https://s1.sonkwo.com/lqHe0FC3Ei6bwFDMzAASn2uGeKrf","https://s1.sonkwo.com/lqQ6aKZG1Rlx5Cz3xwHZqswx2fxa"]
+			}
+		],
+		"xianjie": [
+			"《奇迹时代3》是一款万众期待的获奖作品的续作。游戏包括帝国建造，角色扮演以及战争冲突等元素。《奇迹时代3》为该系列的资深玩家和新手玩家提供了终极回合制策略游戏！",
+			"扮演6种角色中的一种，进行通知：Sorcerer, Theocrat, Rogue, Warlord, Archdruid, 或者 Dreadnought.",
+			"研究独特的技能，发展帝国和军械库",
+			"从6中主要种族中选择自己的同盟- 人类，精灵族，矮人族，半兽人，哥布林等"
+		],
+		"peizhi": [
+			{"操作系统 :":" Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1"},
+			{"处理器 :":" Intel Core 2 Duo E6600 @ 2.4 Ghz or AMD Athlon 64 X2 5000+ @2.6 Ghz"},
+			{"内存 :":"2 GB RAM"},
+			{"图形 :":"nVidia 8800 / ATi Radeon HD 3870 with 512MB or Laptop integrated Intel HD 3000 with 3GB system ram"},
+			{"存储空间 :":"需要 10 GB 可用空间"}
+		],
+		"rightInfo":[
+			{"开发商":"Triumph Studios"},
+			{"发行商":"Paradox Interactive"},
+			{"发行日期":"2017-11-15"},
+			{"游戏语言":"英文"}
+		],
+		"pinfen":"8.6",
+		"cai":["img/p1.jpg","img/p4.jpg","img/banner9.jpg","img/p5.jpg","img/cu2.jpg"]
+	}
+}

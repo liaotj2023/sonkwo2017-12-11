@@ -1,0 +1,36 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "微软雅黑";
+}
+a{
+	text-decoration: none;
+}
+ul,li{
+	list-style: none;
+}
+img{
+	border: none;
+}
+.footerWarp{
+	width: 100%;
+	padding-top: 40px;
+	background: #292e41;
+}
+.footerWarp p{
+	color: #acb2cc;
+	font-size: 14px;
+	line-height: 30px;
+}
+.footerWarp .weixinma{
+	width: 112px;
+	height: 140px;
+	position: relative;
+	top: -100px;
+	left: 1000px;
+	text-align: center;
+	line-height: 20px;
+}
